@@ -1,0 +1,38 @@
+.one{
+    background-color: rgb(223, 194, 194);
+    height: 900px;
+   
+}
+.tow{
+    background-color: azure;
+    float: left;
+    width: 210px;
+    height: 400px;
+    margin: 10px;
+    border-top-color:black ;
+    border: top width 4px; 
+    border-top-style:solid ;
+
+    border-left-color:black ;
+    border: left- width 4px; 
+    border-left-style:solid ;
+    text-align: center;
+}
+
+.clearfix{
+    clear: left;
+}
+img{
+    width: 150px;
+    height: 120px;
+}
+.new {
+    color: rgb(30, 187, 30);
+   
+}
+.old{
+    color: red;
+    text-decoration: line-through;
+    
+   
+}
